@@ -1,0 +1,9 @@
+###
+
+npm --force react-qr-reader      
+
+I have installed 
+|--  react-qr-reader@3.0.0-beta-1    // force instllation not matching with my version of react
+                                    (installed) when hosting it make sure to add this command tooo.
+                                    
+|--  react-webcam@7.2.0
